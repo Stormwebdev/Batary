@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 200px;
+}
+.aa{
+    width: 200px;
+    height: 190px;
+    background-color: blue;
+}
+.chekka{
+    width: 30px;
+    height: 60px;
+    border-radius: 0 10 10 0 solid black;
+    border: 1px solid black;
+    margin-left: 880px;
+    margin-top: -120px;
+}
